@@ -1,6 +1,6 @@
 # Hi, I'm Suman Pal 👋
 
-### UX Designer | Frontend Learner
+### javascript developer| Frontend Learner
 
 - 🌱 I'm currently learning HTML, CSS & javascript 
 - 👨‍💻 I love creating simple and clean designs
